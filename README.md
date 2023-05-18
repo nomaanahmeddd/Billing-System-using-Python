@@ -47,6 +47,15 @@ Facilitate efficient tracking, reference, and reconciliation of invoices.
 
 <h3>2. Make sure you have installed python,required libraries and Mysql</h3>
 
+```cmd
+  pip install mysql-connector-python
+```
+```cmd
+  pip install termcolor
+```
+```cmd
+  pip install datetime
+```
 <p> Now you need to set up database. Start your MySql workbench and enter your password to start your database server.</p>
 
 <h3>3. Open the billing_system.py file</h3>
