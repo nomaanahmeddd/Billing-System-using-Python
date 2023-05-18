@@ -1,7 +1,6 @@
-
 # made by Khaja Noman Ahmed CS undergraduate
 
-
+# In password type your MySql server password (12th Line )
 
 
 import mysql.connector as connector
@@ -11,7 +10,7 @@ from termcolor import colored
 
 global conn, cursor
 conn = connector.connect(host="localhost", database="prod",
-                         user="root", password="")
+                         user="root", password=" ")
 cursor = conn.cursor()
 
 #login
