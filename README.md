@@ -76,3 +76,14 @@ In the 12th Line of code in password type your MySql Server password to connect 
 5.Retrieve sales history for reference and analysis.
 
 
+![Logo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
+
+![Logo](https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
