@@ -11,7 +11,7 @@ from termcolor import colored
 
 global conn, cursor
 conn = connector.connect(host="localhost", database="prod",
-                         user="root", password="Example@2022#")
+                         user="root", password="")
 cursor = conn.cursor()
 
 #login
